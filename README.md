@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**curly210102/curly210102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏡  I’m currently working at **Home**.
+- 🚀  I use daily: 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+- 🔥  I’m currently learning:
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=plastic&logo=TypeScript)
+  ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=plastic&logo=Tailwind-CSS)
+- 📷  Action guide: learn with humility, create with high quality.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=curly210102)
