@@ -10,4 +10,6 @@
   ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=plastic&logo=Tailwind-CSS)
 - 📷  Action guide: learn with humility, create with high quality.
 
-![](https://github-readme-stats.vercel.app/api?username=curly210102)
+<img src="https://github-readme-stats.vercel.app/api?username=curly210102&count_private=true&show_icons=true" alt="GitHub Stats" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curly210102&layout=compact" alt="Top Langs" align="center"/>
+
