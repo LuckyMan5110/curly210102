@@ -8,6 +8,6 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curly210102&layout=compact)
   
-  ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=curly_brackets&custom_title=Wakatime%207%20Days%20Stats&layout=compact&range=last_7_days)
+  ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=curly_brackets&langs_count=10&layout=compact)
 </details>
 
