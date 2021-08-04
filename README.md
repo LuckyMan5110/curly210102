@@ -1,8 +1,8 @@
 # Hi, I'm Curly. 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=curly210102&theme=slateorange)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=curly210102)
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=curly_brackets&langs_count=10&layout=compact&v=2&custom_title=Wakatime%20Weekly&theme=slateorange)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=curly_brackets&langs_count=10&layout=compact&v=2&custom_title=Wakatime%20Weekly)
 
 <details>
   <summary>Achievement</summary>
