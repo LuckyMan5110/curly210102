@@ -15,8 +15,8 @@
 1. ⭐ Starred [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme)
 2. ⭐ Starred [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized)
 3. ⭐ Starred [godbasin/front-end-playground](https://github.com/godbasin/front-end-playground)
-4. 📔 Created new repository [curly210102/vscode-markdown-word-count](https://github.com/curly210102/vscode-markdown-word-count)
-5. 🔱 Forked [curly210102/thmsgbrt](https://github.com/curly210102/thmsgbrt) from [thmsgbrt/thmsgbrt](https://github.com/thmsgbrt/thmsgbrt)
+4. 💧 Created new repository [curly210102/vscode-markdown-word-count](https://github.com/curly210102/vscode-markdown-word-count)
+5. 🧬 Forked [curly210102/thmsgbrt](https://github.com/curly210102/thmsgbrt) from [thmsgbrt/thmsgbrt](https://github.com/thmsgbrt/thmsgbrt)
 <!--RECENT_ACTIVITY:end-->
 ## 🎥 Projects
 
