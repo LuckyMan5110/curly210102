@@ -11,8 +11,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=curly210102&theme=highcontrast&fire=df3434&hide_border=true" alt="Github Streak"/>
 </p>
 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## 🎥 Projects
 
