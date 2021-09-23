@@ -4,7 +4,6 @@ settings:
   max_lines: 5
   readme_file: "./README.md"
   disabled_events:
-    - "comments"
   url_text: "{REPO}{ID}"
   date:
     timezone: "GMT+00:00"
@@ -19,8 +18,8 @@ messages:
   pr_opened: "💪 Opened PR {ID} in {REPO}"
   pr_closed: "❌ Closed PR {ID} in {REPO}"
   pr_merged: "🎉 Merged PR {ID} in {REPO}"
-  create_repo: "📔 Created new repository {REPO}"
-  fork_repo: "🔱 Forked {FORK} from {REPO}"
+  create_repo: "💧 Created new repository {REPO}"
+  fork_repo: "🧬 Forked {FORK} from {REPO}"
   wiki_create: "📖 Created new wiki page {WIKI} in {REPO}"
   added_member: "🤝 Became collaborator on {REPO}"
   changes_approved: "👍 Approved {ID} in {REPO}"
