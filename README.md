@@ -12,6 +12,11 @@
 </p>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#2844](https://github.com/lerna/lerna/issues/2844) in [lerna/lerna](https://github.com/lerna/lerna)
+2. 🗣 Commented on [#125](https://github.com/bytedance/bytemd/issues/125) in [bytedance/bytemd](https://github.com/bytedance/bytemd)
+3. 🗣 Commented on [#122](https://github.com/bytedance/bytemd/issues/122) in [bytedance/bytemd](https://github.com/bytedance/bytemd)
+4. 🗣 Commented on [#124](https://github.com/bytedance/bytemd/issues/124) in [bytedance/bytemd](https://github.com/bytedance/bytemd)
+5. 💪 Opened PR [#123](https://github.com/bytedance/bytemd/pull/123) in [bytedance/bytemd](https://github.com/bytedance/bytemd)
 <!--END_SECTION:activity-->
 
 ## 🎥 Projects
