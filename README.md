@@ -11,18 +11,12 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=curly210102&theme=highcontrast&fire=df3434&hide_border=true" alt="Github Streak"/>
 </p>
 
-<!--RECENT_ACTIVITY:start-->
-1. 💧 Created new repository [curly210102/UserScripts](https://github.com/curly210102/UserScripts)
-2. ⭐ Starred [tannerlinsley/react-virtual](https://github.com/tannerlinsley/react-virtual)
-3. ⭐ Starred [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme)
-4. ⭐ Starred [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized)
-5. ⭐ Starred [godbasin/front-end-playground](https://github.com/godbasin/front-end-playground)
-<!--RECENT_ACTIVITY:end-->
 ## 🎥 Projects
 
 
 | Project Name | Description | Installed | TimeFrame
-| --- | --- | --- | --- |
+| --- | --- | --- | --- 
+| [Juejin Activities Enhancer](https://github.com/curly210102/UserScripts) | A userscripts for Juejin activities | ![](https://img.shields.io/badge/dynamic/json?style=flat-square&color=090&label=installs&query=totalInstalls&url=https%3A%2F%2Fuserscripts-7458gik6p0uy.runkit.sh%2Fgreasyfork%2F433255) | ![GitHub last commit](https://img.shields.io/github/last-commit/curly210102/UserScripts?color=ffbc00&style=flat-square)
 | [Profile Editor](https://github.com/curly210102/profile-editor) | A editor help to write profile readme, converge badges and charts. | ![](https://badges.pufler.dev/visits/curly210102/profile-editor?style=flat-square&color=090&label=Repo%20Visited) | ![GitHub last commit](https://img.shields.io/github/last-commit/curly210102/profile-editor?style=flat-square&color=ffbc00)
 | [VSCode Markdown Word Count](https://marketplace.visualstudio.com/items?itemName=CurlyBrackets.markdown-word-count) | Word Count for Markdown, support CJK, Emoji. |![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/curlybrackets.markdown-word-count?color=090&style=flat-square) | ![Visual Studio Marketplace Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/CurlyBrackets.markdown-word-count?color=ffbc00&style=flat-square)
 | [Readme Stats](https://github.com/curly210102/readme-stats) | A framework to help create serverless svg card. | ![](https://badges.pufler.dev/visits/curly210102/readme-stats?style=flat-square&color=090&label=Repo%20Visited) | ![GitHub last commit](https://img.shields.io/github/last-commit/curly210102/readme-stats?style=flat-square&color=ffbc00)
