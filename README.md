@@ -11,16 +11,16 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=curly210102&theme=highcontrast&fire=df3434&hide_border=true" alt="Github Streak"/>
 </p>
 
-## 🎥 Projects
+## 🎥 Workshop
 
 
 | Project Name | Description | Installed | TimeFrame | Try it out
-| --- | --- | --- | --- 
-  | [Juejin Activities Enhancer](https://github.com/curly210102/UserScripts) | A userscripts for Juejin activities | [![](https://img.shields.io/badge/dynamic/json?style=flat-square&color=090&label=installs&query=totalInstalls&url=https%3A%2F%2Fuserscripts-7458gik6p0uy.runkit.sh%2Fgreasyfork%2F433255)](https://greasyfork.org/zh-CN/scripts/433255-juejin-activities-enhancer) [![](https://img.shields.io/badge/dynamic/json?style=flat-square&color=090&label=updates&query=totalChecks&url=https%3A%2F%2Fuserscripts-7458gik6p0uy.runkit.sh%2Fgreasyfork%2F433255)](https://greasyfork.org/zh-CN/scripts/433255-juejin-activities-enhancer) | ![GitHub last commit](https://img.shields.io/github/last-commit/curly210102/UserScripts?color=ffbc00&style=flat-square) | [Try it out](https://greasyfork.org/zh-CN/scripts/433255-juejin-activities-enhancer)
-| [Profile Editor](https://github.com/curly210102/profile-editor) | A editor help to write profile readme, converge badges and charts. | ![](https://badges.pufler.dev/visits/curly210102/profile-editor?style=flat-square&color=090&label=Repo%20Visited) | ![GitHub last commit](https://img.shields.io/github/last-commit/curly210102/profile-editor?style=flat-square&color=ffbc00) | [Try it out](https://readme-editor-xi.vercel.app/)
-| [VSCode Markdown Word Count](https://github.com/curly210102/vscode-markdown-word-count) | Word Count for Markdown, support CJK, Emoji. |![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/curlybrackets.markdown-word-count?color=090&style=flat-square) | ![Visual Studio Marketplace Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/CurlyBrackets.markdown-word-count?color=ffbc00&style=flat-square) | [Try it out](https://marketplace.visualstudio.com/items?itemName=CurlyBrackets.markdown-word-count)
+| --- | --- | --- | --- | ---
+  | [Juejin Activities Enhancer](https://github.com/curly210102/UserScripts) | A userscripts for Juejin activities | [![](https://img.shields.io/badge/dynamic/json?style=flat-square&color=090&label=installs&query=totalInstalls&url=https%3A%2F%2Fuserscripts-7458gik6p0uy.runkit.sh%2Fgreasyfork%2F433255)](https://greasyfork.org/zh-CN/scripts/433255-juejin-activities-enhancer) [![](https://img.shields.io/badge/dynamic/json?style=flat-square&color=090&label=updates&query=totalChecks&url=https%3A%2F%2Fuserscripts-7458gik6p0uy.runkit.sh%2Fgreasyfork%2F433255)](https://greasyfork.org/zh-CN/scripts/433255-juejin-activities-enhancer) | ![GitHub last commit](https://img.shields.io/github/last-commit/curly210102/UserScripts?color=ffbc00&style=flat-square) | [Greasyfork](https://greasyfork.org/zh-CN/scripts/433255-juejin-activities-enhancer)
+| [Profile Editor](https://github.com/curly210102/profile-editor) | A editor help to write profile readme, converge badges and charts. | ![](https://badges.pufler.dev/visits/curly210102/profile-editor?style=flat-square&color=090&label=Repo%20Visited) | ![GitHub last commit](https://img.shields.io/github/last-commit/curly210102/profile-editor?style=flat-square&color=ffbc00) | [Vercel App](https://readme-editor-xi.vercel.app/)
+| [VSCode Markdown Word Count](https://github.com/curly210102/vscode-markdown-word-count) | Word Count for Markdown, support CJK, Emoji. |![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/curlybrackets.markdown-word-count?color=090&style=flat-square) | ![Visual Studio Marketplace Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/CurlyBrackets.markdown-word-count?color=ffbc00&style=flat-square) | [Marketplace](https://marketplace.visualstudio.com/items?itemName=CurlyBrackets.markdown-word-count)
 | [Readme Stats](https://github.com/curly210102/readme-stats) | A framework to help create serverless svg card. | ![](https://badges.pufler.dev/visits/curly210102/readme-stats?style=flat-square&color=090&label=Repo%20Visited) | ![GitHub last commit](https://img.shields.io/github/last-commit/curly210102/readme-stats?style=flat-square&color=ffbc00)
-| [@commitlint/cz-commitlint](https://github.com/curly210102/commitlint) | Commitizen adapter works with commitlint. | [![npm](https://img.shields.io/npm/dw/@commitlint/cz-commitlint?color=090&style=flat-square)](https://www.npmjs.com/package/@commitlint/cz-commitlint) | ![GitHub last commit](https://img.shields.io/github/last-commit/curly210102/commitlint?color=ffbc00&style=flat-square) | [Try it out](https://www.npmjs.com/package/@commitlint/cz-commitlint)
+| [@commitlint/cz-commitlint](https://github.com/curly210102/commitlint) | Commitizen adapter works with commitlint. | [![npm](https://img.shields.io/npm/dw/@commitlint/cz-commitlint?color=090&style=flat-square)](https://www.npmjs.com/package/@commitlint/cz-commitlint) | ![GitHub last commit](https://img.shields.io/github/last-commit/curly210102/commitlint?color=ffbc00&style=flat-square) | [NPM](https://www.npmjs.com/package/@commitlint/cz-commitlint)
 
 ## :hammer_and_pick: Tools & Skills
 
@@ -35,6 +35,8 @@
 
 ![CSS3](https://img.shields.io/badge/CSS3-143?style=for-the-badge&logo=css3&color=1572B6&logoColor=fff) 
 ![HTML5](https://img.shields.io/badge/HTML5-143?style=for-the-badge&logo=html5&color=E34F26&logoColor=fff)
+![Babel](https://img.shields.io/badge/Babel-143?style=for-the-badge&logo=babel&color=F9DC3E&logoColor=000)
+
 ### 3️⃣ Rookie
 > Have built at least one project, still need improvement.
 
@@ -50,7 +52,6 @@
 ### 0️⃣ Want to learn
 > Heard it, have interested in it.
 
-![Vim](https://img.shields.io/badge/Vim-143?style=for-the-badge&logo=vim&color=019733&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-143?style=for-the-badge&logo=python&color=3776AB&logoColor=fff)
 ![Flutter](https://img.shields.io/badge/Flutter-143?style=for-the-badge&logo=flutter&color=02569B&logoColor=fff)
 ![Rust](https://img.shields.io/badge/Rust-143?style=for-the-badge&logo=rust&color=000000&logoColor=fff)
