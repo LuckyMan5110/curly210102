@@ -23,6 +23,10 @@
   | [rollup-plugin-tampermonkey-header](https://github.com/curly210102/rollup-plugin-tampermonkey-header) | A rollup plugin which can auto-generate UserScript Header. | ![](https://img.shields.io/npm/v/rollup-plugin-tampermonkey-header?style=flat-square) | ![](https://img.shields.io/npm/dw/rollup-plugin-tampermonkey-header?color=090&style=flat-square) | ![GitHub last commit](https://img.shields.io/github/last-commit/curly210102/rollup-plugin-tampermonkey-header?color=ffbc00&style=flat-square) | [NPM](https://www.npmjs.com/package/rollup-plugin-tampermonkey-header)
 | [Profile Editor](https://github.com/curly210102/profile-editor) | A editor help to write profile readme, converge badges and charts. | | ![](https://badges.pufler.dev/visits/curly210102/profile-editor?style=flat-square&color=090&label=Repo%20Visited) | ![GitHub last commit](https://img.shields.io/github/last-commit/curly210102/profile-editor?style=flat-square&color=ffbc00) | [Vercel App](https://readme-editor-xi.vercel.app/)
 
+## Playground
+
+![CSS3](https://img.shields.io/badge/FUN%20WITH%20CSS-143?style=for-the-badge&logo=css3&color=1572B6&logoColor=fff)
+
 
 ## :hammer_and_pick: Tools & Skills
 
